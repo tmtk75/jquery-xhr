@@ -1,6 +1,6 @@
 {
   "name": "node-jquery",
-  "description": "Set up jQuery and DOM tree",
+  "description": "set up jQuery and DOM tree on node",
   "version": "0.1.0",
   "author": {
     "name": "Tomotaka Sakuma",
@@ -12,9 +12,9 @@
   },
   "main": "./index.js",
   "dependencies": {
-    "coffee-script": "1.3.1",
-    "jQuery": "1.6.3",
-    "jsdom": "0.2.14"
+    "coffee-script": ">= 1.3.1",
+    "jQuery": ">= 1.6.3",
+    "jsdom": ">= 0.2.14"
   },
   "scripts": {
     "prepublish": "npm prune"
