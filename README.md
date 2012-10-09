@@ -12,5 +12,12 @@ You can access like this
     window.document
     body = $("body")
 
+## History
+### 0.1.1  
+- support $.ajax using xmlhttprequest
+
+### 0.1.0  
+- first release
+
 ## License
 MIT License
