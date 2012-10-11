@@ -21,6 +21,6 @@
     "prepublish": "npm prune"
   },
   "engines": {
-    "node": ">= 0.6.15"
+    "node": ">= 0.8.9"
   }
 }
