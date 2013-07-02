@@ -23,6 +23,9 @@ Also `$.ajax`, too.
     });
 
 ## History
+### 1.8.3
+- use jquery 1.8.3 <https://github.com/coolaj86/node-jquery>
+
 ### 0.1.1  
 - support $.ajax using xmlhttprequest
 
