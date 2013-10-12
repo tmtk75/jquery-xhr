@@ -1,5 +1,5 @@
 {
-  "name": "node-jquery",
+  "name": "node-jquery-xhr",
   "description": "set up jQuery and DOM tree on node",
   "version": "1.8.3",
   "author": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com:tmtk75/node-jquery.git"
+    "url": "git://github.com:tmtk75/node-jquery-xhr.git"
   },
   "main": "./index.js",
   "dependencies": {
