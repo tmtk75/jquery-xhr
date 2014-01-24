@@ -1,11 +1,11 @@
-# node-jquery
+# node-jquery-xhr
 Provide `window`, `jQuery` and `$` to node integrating `jquery`, `jsdom` and `xmlhttprequest`.
 
 ## How to use
 
-Let's say you use npm, add "node-jquery" to dependencies section of package.js
+Let's say you use npm, add "node-jquery-xhr" to dependencies section of package.js
 
-    require("node-jquery")
+    require("node-jquery-xhr")
 
 You can access like this
 
