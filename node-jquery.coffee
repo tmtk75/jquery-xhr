@@ -1,5 +1,5 @@
 (->
-window = require("jsdom").jsdom().createWindow()
+window = require("jsdom").jsdom().defaultView
 $ = require("jquery")(window)
 
 XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest
