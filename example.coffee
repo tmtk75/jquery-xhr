@@ -1,3 +1,4 @@
+#!/usr/bin/env coffee
 ###
 Example: retrieving all links of yahoo.com
   $ npm up

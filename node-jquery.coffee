@@ -1,6 +1,6 @@
 (->
-window = require("jsdom").jsdom().createWindow()
-$ = require("jquery").create(window)
+window = require("jsdom").jsdom().defaultView
+$ = require("jquery")(window)
 
 XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest
 $.support.cors = true
